@@ -1,0 +1,128 @@
+.first{
+	background-color:rgba(0,0,0,0.2);
+	width:1000px;
+	height:800px; 
+}
+
+*{
+	list-style-type:none;
+}
+
+
+header footer aside nav section article{
+	display:block;
+}
+.nav{
+	height:50px;
+	margin:5px 5px;
+	width:990px;
+	float:right;
+	background-color:white;
+}	
+
+.ul{
+	width:400px;
+	float:right;
+	line-height:0px;
+	margin-top:9px;
+}
+.nav  ul li{
+	float:right;
+	margin:10px;
+	font-size:20px;	
+}
+
+.nav ul li a:hover{
+	color:orange;
+	font-size:25px;
+}
+
+.section{
+	background-color:white;
+	width:630px;
+	margin:5px;
+	float:left;
+}
+
+.side{
+	float:left;
+	background-color:white;
+	width:350px;
+	margin:5px;
+	margin-right:5px;
+	height:680px;
+}
+
+.pic{
+	float:right;
+	margin-right:5px;
+}
+
+.foot{
+	clear:both;
+	font-size:20px;
+	background-color:white;
+	margin:5px;
+}
+
+.para{
+	margin:5px;
+}
+
+.name{
+	float:right;
+}
+
+.side ul li a:hover{
+	color:blue;
+}
+
+.side ul li a:active{
+	color:red;
+}
+
+.side h2{
+	margin:0px auto 0px auto;
+	text-align:center;
+	color:red;
+	text-decoration:underline;
+}
+
+.side ul li a{
+	font:bold italic 20px georgia;
+}
+
+.search{
+	width:350px;
+	float:left;
+	margin:10px;
+	border:2px groove green;
+}
+
+.section header h2{
+	color:red;
+	text-decoration:underline;
+}
+
+label{
+	float:left;
+	margin:10px;
+	font-size:20px;
+}
+
+.find{
+	margin:10px;
+	margin-top:9px;
+}
+
+aside footer{
+	font-size:20px;
+	margin-left:20px;
+}
+
+.side footer a:hover {
+	color:blue;
+	
+}
+
+
